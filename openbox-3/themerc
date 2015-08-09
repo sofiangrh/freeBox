@@ -1,0 +1,109 @@
+#openbox themerc edited with obtheme
+border.color: #000000
+border.width: 1
+menu.items.active.bg: Solid Raised
+menu.items.active.bg.color: #F2EFEA
+menu.items.active.bg.border.color: #F2EDE2
+menu.items.active.bg.shadow: 80
+menu.items.active.bg.highlight: 256
+menu.items.active.text.color: #000000
+menu.items.bg: Solid Raised
+menu.items.bg.color: #D4D0C7
+menu.items.bg.border.color: #F2EDE2
+menu.items.bg.shadow: 80
+menu.items.bg.highlight: 256
+menu.items.disabled.text.color: #A6A6A6
+menu.items.font: shadow=n
+menu.items.text.color: #333333
+menu.overlap: 5
+menu.overlap.x: 4
+menu.overlap.y: -3
+menu.separator.width: 1
+menu.title.bg: Solid Raised
+menu.title.bg.color: #82807A
+menu.title.bg.border.color: #505050
+menu.title.bg.shadow: 80
+menu.title.bg.highlight: 100
+menu.title.text.color: #FFFFFF
+menu.title.text.font: shadow=n
+menu.title.text.justify: Center
+osd.bg: Solid Raised
+osd.bg.color: #D4D0C7
+osd.bg.border.color: #E8E5D9
+osd.bg.shadow: 80
+osd.bg.highlight: 100
+osd.hilight.bg: Solid Sunken
+osd.hilight.bg.color: #D6CFC7
+osd.hilight.bg.border.color: #FFFFFF
+osd.hilight.bg.shadow: 80
+osd.hilight.bg.highlight: 256
+osd.label.bg: parentrelative
+osd.label.text.color: #000000
+osd.unhilight.bg: Solid Flat Border
+osd.unhilight.bg.color: #F3EEEA
+osd.unhilight.bg.border.color: #FFFFFF
+padding.width: 2
+window.active.button.disabled.bg: ParentRelative Flat
+window.active.button.disabled.image.color: #82807A
+window.active.button.hover.bg: ParentRelative Raised
+window.active.button.hover.bg.border.color: #080408
+window.active.button.pressed.bg: ParentRelative Sunken
+window.active.button.pressed.bg.border.color: #080408
+window.active.button.pressed.bg.shadow: 100
+window.active.button.pressed.bg.highlight: 100
+window.active.button.toggled.bg: ParentRelative Flat
+window.active.button.toggled.hover.bg: ParentRelative Raised
+window.active.button.toggled.hover.bg.border.color: #080408
+window.active.button.toggled.hover.bg.shadow: 100
+window.active.button.toggled.hover.bg.highlight: 100
+window.active.button.unpressed.bg: ParentRelative Flat
+window.active.button.unpressed.image.color: #FFFFFF
+window.active.client.color: #000000
+window.active.grip.bg: Solid Flat
+window.active.grip.bg.color: #828282
+window.active.handle.bg: Solid Flat
+window.active.handle.bg.color: #828282
+window.active.label.bg: ParentRelative Flat
+window.active.label.text.color: #FFFFFF
+window.active.label.text.font: shadow=n
+window.active.title.bg: Solid Raised
+window.active.title.bg.color: #82807A
+window.active.title.bg.border.color: #5A5A5A
+window.active.title.bg.shadow: 80
+window.active.title.bg.highlight: 100
+window.client.padding.width: 0
+window.handle.width: 2
+window.inactive.button.disabled.bg: ParentRelative Flat
+window.inactive.button.disabled.image.color: #82807A
+window.inactive.button.hover.bg: ParentRelative Raised
+window.inactive.button.hover.bg.border.color: #080408
+window.inactive.button.hover.bg.highlight: 100
+window.inactive.button.hover.image.color: #FFFFFF
+window.inactive.button.pressed.bg: ParentRelative Sunken
+window.inactive.button.pressed.bg.border.color: #080408
+window.inactive.button.pressed.bg.shadow: 100
+window.inactive.button.pressed.bg.highlight: 100
+window.inactive.button.pressed.image.color: #FFFFFF
+window.inactive.button.toggled.bg: ParentRelative Flat
+window.inactive.button.toggled.hover.bg: ParentRelative Raised
+window.inactive.button.toggled.hover.bg.border.color: #080408
+window.inactive.button.toggled.hover.bg.shadow: 100
+window.inactive.button.toggled.hover.bg.highlight: 100
+window.inactive.button.toggled.hover.image.color: #FFFFFF
+window.inactive.button.toggled.image.color: #82807A
+window.inactive.button.unpressed.bg: ParentRelative Flat
+window.inactive.button.unpressed.image.color: #828282
+window.inactive.client.color: #000000
+window.inactive.grip.bg: Solid Flat
+window.inactive.grip.bg.color: #828282
+window.inactive.handle.bg: Solid Flat
+window.inactive.handle.bg.color: #828282
+window.inactive.label.bg: ParentRelative Flat
+window.inactive.label.text.color: #82807A
+window.inactive.label.text.font: shadow=n
+window.inactive.title.bg: Solid Raised
+window.inactive.title.bg.color: #82807A
+window.inactive.title.bg.border.color: #080408
+window.inactive.title.bg.shadow: 80
+window.inactive.title.bg.highlight: 100
+window.label.text.justify: Left
